@@ -4,6 +4,7 @@
 
 # Project Structure
 
+<pre>
 Telegram2API/
 ├── .github/workflows/ci.yml   # For CI/CD
 ├── data/                       # add this folder to .gitignore
@@ -20,6 +21,7 @@ Telegram2API/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+</pre>
 
 # Getting Started
 
